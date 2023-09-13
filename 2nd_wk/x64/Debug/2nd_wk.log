@@ -1,0 +1,3 @@
+﻿  2nd_wk.cpp
+E:\Main_Folder\school_vid\program\2nd_wk\2nd_wk.cpp(21,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  2nd_wk.vcxproj -> E:\Main_Folder\school_vid\program\2nd_wk\x64\Debug\2nd_wk.exe
